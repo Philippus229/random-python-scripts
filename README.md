@@ -1,2 +1,2 @@
-# random-python-scripts
-Random Python scripts
+# Random Python Scripts
+random python scripts
